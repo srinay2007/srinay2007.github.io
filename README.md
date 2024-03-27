@@ -5,9 +5,9 @@ I am an aspiring Data Science developer who is passionate about NLP, Deep learni
 
 🔭 I’m currently working on NLP  and Deep Learning @ LJMU, previously Data Analytics @ KPI Partners.
 
-⚡ I’m interested in the area of NLP and Computer Vision. \n
-🌱 I’m currently learning Generative AI, Multimodal NLP, Explainable AI. \n
-👯 I’m always open to meaningful collaborations. \n
-😄 Pronouns: He/His \n
-📫 More details: [[Your personal website or portfolio link]](https://github.com/srinay2007/srinay2007.github.io)https://github.com/srinay2007/srinay2007.github.io \n
-🤝 Connect with me \n
+⚡ I’m interested in the area of NLP and Computer Vision. <br />
+🌱 I’m currently learning Generative AI, Multimodal NLP, Explainable AI. <br />
+👯 I’m always open to meaningful collaborations. <br />
+😄 Pronouns: He/His <br />
+📫 More details: [[Your personal website or portfolio link]](https://github.com/srinay2007/srinay2007.github.io)https://github.com/srinay2007/srinay2007.github.io <br />
+🤝 Connect with me <br />
