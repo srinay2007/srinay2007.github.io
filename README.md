@@ -9,6 +9,6 @@ I am an aspiring Data Science developer who is passionate about NLP, Deep learni
 🌱 I’m currently learning Generative AI, Multimodal NLP, Explainable AI. <br />
 👯 I’m always open to meaningful collaborations. <br />
 😄 Pronouns: He/His <br />
-📫 More details: [[Your personal website or portfolio link]](https://github.com/srinay2007/srinay2007.github.io)https://github.com/srinay2007/srinay2007.github.io <br />
+📫 More details: https://github.com/srinay2007/srinay2007.github.io <br />
 🤝 Connect with me <br />
  
