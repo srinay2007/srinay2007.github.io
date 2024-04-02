@@ -10,5 +10,5 @@ I am an aspiring Data Science developer who is passionate about NLP, Deep learni
 👯 I’m always open to meaningful collaborations. <br />
 😄 Pronouns: He/His <br />
 📫 More details: https://github.com/srinay2007/srinay2007.github.io <br />
-🤝 Connect with me <br />
+🤝 Connect with me at srinay2007@gmail.com <br />
  
