@@ -4,10 +4,10 @@ Data Analytics Leader with 25+ years of experience with Digital transformation a
 
 🔭 As freelance consultant I undertake and execute large Data Analytics projects for Fortune 500 companies.  Below are few projects that I have executed in Data Analytics and Data scence. \
 **Data Analytics Projects** \
-**1.OPLA Upgrade Project** : This is a Data Engineering project executed for Global Semiconductor company for the upgrade of OPLA (Oracle Product Lifecycle Analytics) solution and optimization of ETL Load Performance. \
+**1.OPLA Upgrade Project** : This is a Data Engineering project executed for Global Semiconductor company for the upgrade of OPLA (**Oracle Product Lifecycle Analytics**) solution and optimization of ETL Load Performance. \
 **2.Upgrade and Data Migration : Cognos to Oracle Project** : This is Data Analytics project for the purpose of a) upgrade of Oracle Data Analytics platform from ODI 11g to ODI 12c and b) migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analytics Warehouse template. \
 **3.Industrial IOT Solution for Machine Tools** : This project is envisaged for a Grinding Machine Tool Manufacturing companyto build a cloud based IOT software Solution for supporting its customers from anywhere, any time.  **Technology Stack**: Siemens 1215 PLC, Mitsubishi fx5U PLC Controllers, Microsoft SQL Server, .NET, C#, Azure Cloud, Elastic search. \
-**4.Community Healthcare Analytics for Community Heatlh care provider** : This is case study of Healthcare Analytics solution for Community Health care provider. Hosted on AWS, Heroku, Data Integration with Talend ETL Platform, 
+**4.Community Healthcare Analytics for Community Heatlh care provider** : This is Healthcare Analytics solution for Community Health care provider. Hosted on AWS and Heroku, Data Integration with Talend ETL Platform, 
 Data Store with PostGreSQL,  Rest API Framework with Node.js, Angularjs, Security Model with Strongloop, Analytics model and Visualizations with D3.js, CD.js, Crossfilter.js. \
 
 Also I am Data Science Developer passionate about AI, NLP, Deep learning and application of these technologies for solving real world problems. I love to work with technologies including TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy, Transformers, BERT, LLMs to name a few. Please feel free to reach out to me. \
