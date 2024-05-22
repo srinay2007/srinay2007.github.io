@@ -2,7 +2,7 @@
 
 Data Analytics Leader with 25+ years of experience with Digital transformation and Data Engineering fields. I have extensively worked on building analytics solutions using Oracle and Microsoft Data integration and reporting tools. I am well versed with ETL tools such as Oracle Data Integrator, Talend, Informatica, BI reporting platforms such as OracleBIEE, Tableau.  
 
-🔭 As freelance consultant I undertake and execute large Data Analytics projects for Fortune 500 companies. Currently consulting @ KPI Partners, Bangalore. Below are few projects that I have executed in Data Analytics and Data scence. \
+🔭 As freelance consultant I undertake and execute large Data Analytics projects for Fortune 500 companies.  Below are few projects that I have executed in Data Analytics and Data scence. \
 **Data Analytics Projects** \
 **1.OPLA Upgrade Project** : This is a Data Engineering project executed for Global Semiconductor company for the upgrade of OPLA (Oracle Product Lifecycle Analytics) solution and optimization of ETL Load Performance. \
 **2.Upgrade and Data Migration : Cognos to Oracle Project** : This is Data Analytics project for the purpose of a) upgrade of Oracle Data Analytics platform from ODI 11g to ODI 12c and b) migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analytics Warehouse template. \
@@ -10,7 +10,7 @@ Data Analytics Leader with 25+ years of experience with Digital transformation a
 **4.Community Healthcare Analytics for Community Heatlh care provider** : This is case study of Healthcare Analytics solution for Community Health care provider. Hosted on AWS, Heroku, Data Integration with Talend ETL Platform, 
 Data Store with PostGreSQL,  Rest API Framework with Node.js, Angularjs, Security Model with Strongloop, Analytics model and Visualizations with D3.js, CD.js, Crossfilter.js.
 
-Also I am an Data Science Consultant who is passionate about NLP, Deep learning and application of these technologies for solving real world problems. I love to work with technologies including TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy, Transformers, BERT, LLMs to name a few. Please feel free to reach out to me 🙂 \
+Also I am Data Science Developer passionate about AI, NLP, Deep learning and application of these technologies for solving real world problems. I love to work with technologies including TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy, Transformers, BERT, LLMs to name a few. Please feel free to reach out to me 🙂 \
 
 **Data Science Projects** \
 **1.Unveiling Online Deception : Fake-review-detection using Deep Learning Techniques** : This is a Research thesis project done as part of my Masters in Data Science Program in Liverpool John Moore University, UK. THe main purpose of this research is to assess the effectiveness of different Embedding Techniques such as BERT, RoBERTa, DistilBERT, XLNET and machine learning algorithms, including **Support Vector Machine, Naïve-Bayes, and convolutional neural networks (CNNs), recurrent neural networks (RNNs), LSTM, BERT (transformer)**. This utilizes various ML and DL libraries such as TensorFlow, SKLearn, Keras, Pandas. etc. \
