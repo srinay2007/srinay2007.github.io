@@ -6,17 +6,17 @@ Data Analytics Leader with 25+ years of experience with Digital transformation a
 
 Here are some of the live projects I have executed with fortune 500 companies in Data Analytics / Data science. 
 
-1.Designed and developed **Text analysis system** for pharma research, financial analysis automation using 10-K reports, scientific and technical papers, clinical trials data etc. Improved research efficiency by 35% through **Retrieval-Augmented Generation (RAG)** based system, automating the retrieval and summarization of pharma research data. \
+1.Designed and developed **Text analysis system** for pharma research, financial analysis automation using 10-K reports, scientific and technical papers, clinical trials data etc. Improved research efficiency by 35% through **Retrieval-Augmented Generation (RAG)** based system, automating the retrieval and summarization of pharma research data. 
 
-2.Delivered an **Predictive AI solution** for a medical instruments company to analyze breathing parameter data collected through a specialized lung disease diagnostic device. This solution generates recommendations for doctors, indicating whether a patient may have lung disease and, if so, categorizing the type of disease. Achieved 92% accuracy in predicting lung disease categories using machine learning models. \
+2.Delivered an **Predictive AI solution** for a medical instruments company to analyze breathing parameter data collected through a specialized lung disease diagnostic device. This solution generates recommendations for doctors, indicating whether a patient may have lung disease and, if so, categorizing the type of disease. Achieved 92% accuracy in predicting lung disease categories using machine learning models. 
 
-3.Designed and implemented an **Automated Griding Intelligence** solution for a machine tool manufacturing client in partnership with IIT Madras. Achieved a 40% improvement in defect detection for tool wear and predictive maintenance by leveraging **advanced signal processing techniques** and **machine learning algorithms**. \
+3.Designed and implemented an **Automated Griding Intelligence** solution for a machine tool manufacturing client in partnership with IIT Madras. Achieved a 40% improvement in defect detection for tool wear and predictive maintenance by leveraging **advanced signal processing techniques** and **machine learning algorithms**. 
 
-**4.OPLA Upgrade Project** : This is a Data Engineering project executed for Global Semiconductor company for the upgrade of OPLA (**Oracle Product Lifecycle Analytics**) solution and optimization of ETL Load Performance. \
+**4.OPLA Upgrade Project** : This is a Data Engineering project executed for Global Semiconductor company for the upgrade of OPLA (**Oracle Product Lifecycle Analytics**) solution and optimization of ETL Load Performance. 
 
-**5.Upgrade and Data Migration Project** : This is Data Analytics project for the purpose of a) upgrade of Oracle Data Analytics platform from ODI 11g to ODI 12c and b) migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analytics Warehouse template. \
+**5.Upgrade and Data Migration Project** : This is Data Analytics project for the purpose of a) upgrade of Oracle Data Analytics platform from ODI 11g to ODI 12c and b) migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analytics Warehouse template. 
 
-**6.Industrial IOT Solution for Machine Tools** : This project is envisaged for a Grinding Machine Tool Manufacturing companyto build a cloud based IOT software Solution for supporting its customers from anywhere, any time.  **Technology Stack**: Siemens 1215 PLC, Mitsubishi fx5U PLC Controllers, Microsoft SQL Server, .NET, C#, Azure Cloud, Elastic search. \
+**6.Industrial IOT Solution for Machine Tools** : This project is envisaged for a Grinding Machine Tool Manufacturing companyto build a cloud based IOT software Solution for supporting its customers from anywhere, any time.  **Technology Stack**: Siemens 1215 PLC, Mitsubishi fx5U PLC Controllers, Microsoft SQL Server, .NET, C#, Azure Cloud, Elastic search. 
 
 **7.Community Healthcare Analytics for Community Heatlh care provider** : This is Healthcare Analytics solution for Community Health care provider. Hosted on AWS and Heroku, Data Integration with Talend ETL Platform, 
 Data Store with PostGreSQL,  Rest API Framework with Node.js, Angularjs, Security Model with Strongloop, Analytics model and Visualizations with D3.js, CD.js, Crossfilter.js. 
