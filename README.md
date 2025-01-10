@@ -4,7 +4,7 @@ Data Analytics Leader with 25+ years of experience with Digital transformation a
 
 🔭 As freelance consultant I undertake and execute large Data Analytics projects for Fortune 500 companies. 
 
-Here are some of the live projects I have executed with fortune 500 companies in Data Analytics / Data science. \
+Here are some of the live projects I have executed with fortune 500 companies in Data Analytics / Data science. 
 
 1.Designed and developed **Text analysis system** for pharma research, financial analysis automation using 10-K reports, scientific and technical papers, clinical trials data etc. Improved research efficiency by 35% through **Retrieval-Augmented Generation (RAG)** based system, automating the retrieval and summarization of pharma research data. \
 
