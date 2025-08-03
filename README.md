@@ -15,7 +15,7 @@ AI & Data Transformation Consultant | 30+ years in AI, IoT, and Analytics
 
 ## 📚 Key Projects
 - **Brand and Campaign Management**: Building data analytics functionalities for AI-driven marketing tech platform using GCP Tools Vertex AI, Big query, Looker Studio, Apache Airflow and other LLMs OpenAI, ClaudeAI, Llama. [Repo](#)
-- **AI Clinical Research**: AI-powered analysis for drug discovery using Python, LLMs. [Repo](#)
+- **AI Clinical Research Analytics**: AI-powered analysis for research and drug discovery using Python, LLMs. [Repo](#)
 - **Industrial IoT**: Predictive maintenance platforms with Azure IoT. [Repo](#)
 - **Healthcare Platform**: Full-stack solution for 125,000+ AIDS patients. [Repo](#)
 
